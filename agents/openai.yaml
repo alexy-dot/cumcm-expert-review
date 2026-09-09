@@ -1,0 +1,4 @@
+interface:
+  display_name: "国赛专家视角对照评审"
+  short_description: "对照官网例文评审国赛论文，以证据评分并判断国奖竞争力与关键缺口"
+  default_prompt: "请使用 $cumcm-expert-review 对照同题官网例文评审我的国赛论文，给出分项评分、国奖竞争力判断和修订优先级。"
